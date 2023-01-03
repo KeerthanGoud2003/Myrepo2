@@ -1,1 +1,2 @@
 "ITCA Training for our batch COE Java" 
+"This is the training given to the stuidents of GPREC to excel in their lives" 
